@@ -1,5 +1,6 @@
-import { RecintosZoo } from "./RecintosZoo.js";
-// Instanciando a classe
+// Estes testes foram elaborados para a verificação dos retornos.
+import { RecintosZoo } from "./recintos-zoo.js";
+
 const zoo = new RecintosZoo();
 
 // Teste com o animal "leão" e quantidade 1
